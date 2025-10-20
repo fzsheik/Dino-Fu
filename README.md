@@ -99,13 +99,6 @@ g++ runner.cpp -o runner [your-compiler-flags]
 - Implement more arenas
 - Add power-ups and different boomerang types
 - Single-player mode with AI opponents
-
-## 📄 License
-
-[Your License Here]
-
-
-
 ---
 
 **Have fun and may the best dino win!** 🦖⚔️
