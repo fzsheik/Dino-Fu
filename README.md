@@ -8,6 +8,13 @@ A fast-paced multiplayer platformer fighting game inspired by Boomerang Fu, feat
 
 Dino Fu is a competitive local multiplayer game where players control dinosaurs in arena-style combat. Originally inspired by the Nintendo game Boomerang Fu, this project evolved into a unique platformer experience with smooth movement mechanics and strategic boomerang combat.
 
+Project Goals
+This project was created to explore game development from scratch without relying on third-party engines like Unity or Godot. The challenge was to build everything ground-up, including:
+- Custom physics engine - Designed specifically to handle boomerang mechanics, including ricocheting off walls and return trajectories
+- From-scratch implementation - All game systems built without engine assistance
+  
+I've always admired how Boomerang Fu manages to be simple yet incredibly deep in its gameplay. To tackle this complexity in a more manageable way, I reimagined it as a platformer - - maintaining the core boomerang combat mechanics while simplifying the game structure.
+
 **Note:** This is a playable prototype with some mechanical and UI bugs still present.
 
 ## ✨ Features
